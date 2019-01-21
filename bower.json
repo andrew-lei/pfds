@@ -1,0 +1,16 @@
+{
+  "name": "purely-functional-data-structures-visualisation",
+  "homepage": "https://github.com/andrew-lei/pfds",
+  "authors": [
+    "Andrew Lei <andrew.w.lei@gmail.com>"
+  ],
+  "description": "Starter Pux application using webpack with hot-reloading.",
+  "main": "support/entry.client.js",
+  "license": "BSD3",
+  "dependencies": {
+    "purescript-pux": "^11.0.0",
+    "purescript-css": "^3.0.0",
+    "purescript-aff": "^3.0.0",
+    "purescript-affjax": "^4.0.0"
+  }
+}
